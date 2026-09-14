@@ -1,4 +1,4 @@
-# DivvyUp
+# SplitIT
 
 ## Getting Started
 Welcome to a smarter way to manage your finances! In a world where every penny counts, our App is your key to financial empowerment. Our app is designed to simplify and elevate your money management experience.
